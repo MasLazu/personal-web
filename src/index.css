@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0f3f6;
+}
+.inner-javascript {
+  background-image: url("./assets/gambar-javascript.svg");
+}
+.gambar-css {
+  background-image: url("./assets/gambar-css.svg");
+}
+.inner-html {
+  background-image: url("./assets/gambar-html.webp");
+}
+.inner-mobile-nav {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 10px 50px;
+}
